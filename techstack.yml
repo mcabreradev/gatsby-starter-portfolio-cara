@@ -1,7 +1,8 @@
 repo_name: mcabreradev/gatsby-starter-portfolio-cara
 report_id: 0ccbd0833228a88146102538500da1c5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:32:54+00:00'
+timestamp: '2024-01-05T08:44:48+00:00'
 requested_by: renovate[bot]
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -27,7 +29,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -42,7 +44,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6749/styled-components.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -56,7 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-23 22:00:50.000000000 Z
@@ -68,6 +70,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Lennart
   last_updated_on: 2018-12-30 17:51:36.000000000 Z
@@ -80,7 +83,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: package.json
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/.eslintrc
+  detection_source: ".eslintrc"
   last_updated_by: LeKoArts
   last_updated_on: 2018-06-02 23:41:58.000000000 Z
 - name: Git
@@ -91,6 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -102,7 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-20 15:40:18.000000000 Z
@@ -114,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Lennart
   last_updated_on: 2018-10-15 21:19:24.000000000 Z
@@ -125,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/package.json
   detection_source: package.json
   last_updated_by: Lennart
   last_updated_on: 2018-10-15 21:19:24.000000000 Z
@@ -136,6 +143,7 @@ tools:
   category: Analytics
   sub_category: General Analytics
   image_url: https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/package.json
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -150,7 +158,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -164,7 +172,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 00:54:15.000000000 Z
@@ -179,7 +187,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16651/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -193,7 +201,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 00:54:15.000000000 Z
@@ -207,7 +215,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 00:54:15.000000000 Z
@@ -221,7 +229,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -235,7 +243,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -249,7 +257,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -263,7 +271,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -278,7 +286,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18081/image.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -292,7 +300,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17532/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -306,7 +314,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17786/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -328,7 +336,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17100/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -342,7 +350,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18094/image.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -356,7 +364,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-03-04 04:59:09.000000000 Z
@@ -370,7 +378,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -384,7 +392,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -398,7 +406,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17658/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2019-06-24 02:57:24.000000000 Z
@@ -412,7 +420,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: LekoArts
   last_updated_on: 2019-02-06 10:55:21.000000000 Z
