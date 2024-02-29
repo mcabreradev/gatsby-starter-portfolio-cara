@@ -2,7 +2,7 @@ repo_name: mcabreradev/gatsby-starter-portfolio-cara
 report_id: 0ccbd0833228a88146102538500da1c5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:44:48+00:00'
+timestamp: '2024-02-29T18:44:19+00:00'
 requested_by: renovate[bot]
 provider: github
 branch: master
@@ -98,7 +98,7 @@ tools:
   detection_source_url: https://github.com/mcabreradev/gatsby-starter-portfolio-cara
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
